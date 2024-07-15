@@ -12,6 +12,7 @@
     "web:build": "./node_modules/.bin/webpack --config ./webpack.config.js --color --mode production"
   },
   "dependencies": {
+    "express": "*",
     "node-ethereum": "*",
     "Express": "*",
     "react": "18.2.0",
