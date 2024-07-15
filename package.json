@@ -14,7 +14,6 @@
   "dependencies": {
     "express": "*",
     "node-ethereum": "*",
-    "Express": "*",
     "react": "18.2.0",
     "react-native": "0.71.7",
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
